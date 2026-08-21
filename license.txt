@@ -1,2 +1,3 @@
 # endpix license (CODE|码|最大绑定|已绑定|备注|创建 ; BIND|码|设备hash|日期)
-CODE|ENDP-C93J-ZGUD-KKCL|1|0|������-����vivo|2026-08-21
+CODE|ENDP-C93J-ZGUD-KKCL|1|1|������-����vivo|2026-08-21
+BIND|ENDP-C93J-ZGUD-KKCL|1ade1ab3fdb5c48a|2026-08-21
